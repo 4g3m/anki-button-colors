@@ -1,0 +1,28 @@
+{
+  "enabled": true,
+  "mode": "filled",
+  "radius": 8,
+  "padding": 6,
+  "min_width": 70,
+  "font_size": 13,
+  "border_width": 2,
+  "bold": true,
+  "color_intervals": false,
+  "style_show": true,
+  "light": {
+    "again": "#c73545",
+    "hard": "#ad6500",
+    "good": "#23834b",
+    "easy": "#286dcc",
+    "show": "#7656c4"
+  },
+  "dark": {
+    "again": "#c73545",
+    "hard": "#ad6500",
+    "good": "#23834b",
+    "easy": "#286dcc",
+    "show": "#7656c4"
+  },
+  "custom_presets": {},
+  "label_color": "white"
+}
