@@ -2,6 +2,8 @@
 
 A new Anki Desktop add-on inspired by [teaqu/anki-button-colours](https://github.com/teaqu/anki-button-colours), implemented independently using reviewer CSS rather than adding font markup to labels. No original source code is incorporated.
 
+Install from the official [Button Colors page on AnkiWeb](https://ankiweb.net/shared/info/747344205), or download the packaged `.ankiaddon` file from this repository.
+
 Supports **Anki 2.1.55 and newer**, including the current 26.x releases. The minimum is based on the first release that provides all APIs used by the add-on, including `theme_did_change`. The add-on uses `ReviewerBottomBar`, `webview_will_set_content`, and `data-ease` button attributes. It does not replace reviewer methods or change scheduling, labels, keyboard shortcuts, or answer actions. Desktop only; AnkiMobile and AnkiDroid do not load desktop add-ons.
 
 ## Install
