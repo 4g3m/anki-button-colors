@@ -1,5 +1,8 @@
 # Button Colors
 
+<img width="640" height="753" alt="image" src="https://github.com/user-attachments/assets/6d9f3d11-798a-4d15-b5af-fb7c257446d4" />
+
+
 A new Anki Desktop add-on inspired by [teaqu/anki-button-colours](https://github.com/teaqu/anki-button-colours), implemented independently using reviewer CSS rather than adding font markup to labels. No original source code is incorporated.
 
 Install from the official [Button Colors page on AnkiWeb](https://ankiweb.net/shared/info/747344205), or download the packaged `.ankiaddon` file from this repository.
